@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2020-11-23T09:29:26.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PTQgQsVExyw5Pggi_rth" version="13.9.9" type="github">
+  <diagram id="cYfA3YZg0H0NjDB7c8gp" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-2" value="运营提供一批用户id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-4" value="先找到用户自身的指标值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-9" value="&lt;font style=&quot;font-size: 8px&quot;&gt;取到（&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;Duration&lt;br&gt;of Comparison&lt;/span&gt;&lt;br&gt;）条件下的值&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-10" value="&lt;font style=&quot;font-size: 8px&quot;&gt;取到相似排名度的用户（根据排名做left join）&lt;br&gt;如果选了范围x1,x2用排名+1，+2的方式取&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-18" value="&lt;span&gt;这里后期优化为相近值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-19" value="&lt;span style=&quot;font-size: 8px&quot;&gt;left join出两边的指标数据集&lt;br&gt;可视化显示（图表）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-20" value="&lt;span&gt;需要建立一个用户每天累加表&lt;br&gt;日期,userid,指标值,排名&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="675" width="31" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-35" value="" style="endArrow=classic;html=1;entryX=-0.025;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="n8hi-Df5wWBjK-nF81Oh-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="500" as="sourcePoint" />
+            <mxPoint x="290" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-37" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n8hi-Df5wWBjK-nF81Oh-4" target="n8hi-Df5wWBjK-nF81Oh-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="610" as="sourcePoint" />
+            <mxPoint x="330" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8hi-Df5wWBjK-nF81Oh-44" value="EXP值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="340" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
