@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T07:15:35.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="27TG7ZvynSFP4C0GLd1J" version="14.4.2" type="github"><diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">7VpNk+I2EP01HLNlGwzmuDDDbqWyuZBUzkJujGplySNLwOTXp1uS+RizlT2EwMEUZatbLXXrdfMsFR6Nl/Xxi2HN7psuQY6ypDyOxi+jLEsnWTaib1K+B81sGhWVEWU0OivW4m+IyiRqnSihvTK0Wksrmmsl10oBt1c6Zow+XJtttbz22rAKeoo1Z7Kv/UuUdhe1aZKcO76CqHbRdZHHjg3j3yujnYr+Rtl46z+hu2bdXNG+3bFSHy5U49fReGm0tqFVH5cgCdsOtjBu9YPeU9wGlP2ZAflsC1O2AZ4U22TCN7/EGfZMuojFr0zFWO17hw+G3VCztdCMxovDTlhYN4yT7oAlgbqdrSVKKTa3WtmY46wgWUi51FIbP9k4SYpktYp2F/qV/6C+tUZ/h65HaYUzLfor7UIHY+F4oYor/wK6Bmve0ST2zmMSYpGmRZQPFymfRd3uMttRx2KVVaeZz0hjI4L9k8BnPeC/MXNv4Gf5a/EA4LPJMyE/voH8+72Rn86WywcgP36qmp/0ycbJ+0OfLScPgD5/qqLPe9CvEdw7I5/PF8kDkJ8+VdFPe8j/rvf3Rn7yMp8/APniqWp+1kM+S9JZD3pcm72G9yY8HzCepovPHksmRaVQxxE2wM4FwSVwb/k5dtSiLMnXzaReZDLvWGodY0v7GTxl9j9IVpp9SFbaT1YxvZGs6T2SVfSS9Zs2UNOQpnV0Lz0MmDphyTm6HGXLcCho8VAA1lEvK0UjWsGFqlACKaJVC6Wfg5TCtbUm0ULd+DmF4qIUpVM0taOLZBv0T9a28w1+R18pRm6keHPsE7b+pH5QovbOyUQEYY9KVgfvb060eFMaS8uRERzBcGGZFVqRSylZzXXnNxjjMrpovDvR+IF0YX7dNa5CdwhgOJbieQmumLMUrzDOx92BJ8ibgcbADlQJxmPplXstXYMBgQ/d45ZA25LIsfTPKfCgOLxsXSUYmSkKP5QjKpyhMF6PHBoLLmTM46o5Z8D9CO4aUTIbRnsEGqPxDKi6bIVM+MC4kw0LGNIk2y0ml2Q8MYIJdrWWIWAWoBce4vaUR1djSFNJP/MNBjStqLX2FeHhbcC0DU1rPXZ4nKNF6lp5UbQeFIVLIxHwwHmuwxNsPv+cu5YpKy7Qqt8c+Dhc2fXQCq22VBxJqHEkf3MqFmBhCBZ+WDcjiW1IJaX2uGBx2ZCKPSUxBu5rFe194TDDiXC4pREbQLS9uQj3UnDLzkjDsZFIWhv96Uf82CJx4Y/qD4209YL7iR4jxoPvvz68OsKUsLXXDJhmUV6xWkiipa8g90Bs+sFd5OR7PcdOB/9Ijdmt59jkBjVOZvfgxvnAjQM3Dtw4cOMzcGOWPxU3dpvWgRwHchzIcSDHx5Lj5Lk2jmn/752BHAdyHMhxIMcHkGP+ZDvH/l+wAzkO5DiQ40CODyDH2ZPtHPtvSQzkOJDjQI4DOT6AHIs8///IEcXzC5m+7+Kt1/HrPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-20T07:33:52.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="cLY5BjqDNF8BEmSx3NQ6" version="14.4.2" type="github">
+  <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="57fe6abec08f04cb-1" value="一周&lt;br&gt;（25-27）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fontColor=#FFFFFF;strokeColor=none;fillColor=#0080FF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bvc8APwwQaWXMPsRPmAm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57fe6abec08f04cb-2" target="57fe6abec08f04cb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-2" value="二周&lt;br&gt;（1-5）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fontColor=#FFFFFF;strokeColor=none;fillColor=#0075E8;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-3" value="三周&lt;br&gt;（7-9）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fontColor=#FFFFFF;strokeColor=none;fillColor=#0067CC;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-4" value="四周&lt;br&gt;（25-27）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-5" value="五周&lt;br&gt;（25-27）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-6" value="二周&lt;br&gt;（25-27）" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-7" value="2017" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-8" value="&lt;div&gt;&lt;font color=&quot;#0080ff&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;完成以下考核项&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0080ff&quot;&gt;1：工作规范及制度&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0080ff&quot;&gt;2：CRM周报填写规范&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0080ff&quot;&gt;3：入职交流&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0080ff&quot;&gt;4：产品使用(开发)&amp;nbsp; 完成 70%&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0075e8&quot;&gt;完成以下考核项&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0075e8&quot;&gt;1:产品使用(开发)&amp;nbsp; 完成 完成考核&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0075e8&quot;&gt;2:数据挖掘&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;&lt;font color=&quot;#0075e8&quot;&gt;3:综合论述&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-10" value="&lt;div&gt;&lt;font color=&quot;#0067cc&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;完成以下考核项&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0067cc&quot;&gt;1:问答考核&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0067cc&quot;&gt;2:定位代码常用技巧&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0067cc&quot;&gt;3:基础技术考察&lt;/font&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-11" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-12" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="855" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
