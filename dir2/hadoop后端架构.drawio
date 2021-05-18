@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T08:21:51.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eiidbH9glcXHM2DtJEld" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T08:26:19.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_0qHnFgbMtsQROSwNpoX" version="14.6.13" type="github">
   <diagram id="_y4zRp_UmyId21-Hul7x" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-8" value="&lt;h1&gt;总体服务架构&lt;/h1&gt;&lt;p&gt;大数据平台后端相关服务示例图&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry y="30" width="190" height="120" as="geometry" />
+          <mxGeometry y="10" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-21" value="Zookeeper&lt;br&gt;(分布式协作服务)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="40" y="367" width="310" height="70" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-39" value="海猫数据平台" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3FF66;fillColor=#CCFF99;" vertex="1" parent="1">
-          <mxGeometry x="251" y="60" width="393" height="60" as="geometry" />
+          <mxGeometry x="160.89" y="170" width="269.11" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-23" value="MapReduce&lt;br&gt;(分布式计算框架)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="420" width="225" height="60" as="geometry" />
@@ -49,20 +49,29 @@
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-45" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250" y="432" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7UA-1CkDOlzAfWWB-_jW-48" value="Hive&lt;br&gt;(数据库管理 metastore)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.39" y="328" width="225" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7UA-1CkDOlzAfWWB-_jW-49" value="Flink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.39" y="250" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7UA-1CkDOlzAfWWB-_jW-47" value="Spark&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.39" y="250" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-29" value="Ranger&lt;br&gt;(Hadoop 提供安全权限管理)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="458" y="366.99999999999994" width="335.22" height="47.42" as="geometry" />
+          <mxGeometry x="467.91" y="376.91" width="315.39" height="47.42" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-31" value="kerberos&lt;br&gt;(Hadoop 认证协议)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="506.39" y="367" width="335.22" height="47.42" as="geometry" />
+          <mxGeometry x="517.19" y="377.8" width="313.61" height="47.42" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-51" value="第三方客户端" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3FF66;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="442.39" y="170" width="107.61" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-52" value="其它应用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B3FF66;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-53" value="" style="group;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="335" y="250" width="227.39" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-48" value="Hive&lt;br&gt;(数据库管理 metastore)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7UA-1CkDOlzAfWWB-_jW-53">
+          <mxGeometry x="2.3899999999999864" y="90" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-49" value="Flink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7UA-1CkDOlzAfWWB-_jW-53">
+          <mxGeometry x="135" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7UA-1CkDOlzAfWWB-_jW-47" value="Spark&lt;br&gt;(spark http sever)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7UA-1CkDOlzAfWWB-_jW-53">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
