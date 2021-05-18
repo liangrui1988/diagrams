@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T08:35:27.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lH1b2MM7Hx_IlhGCuqiI" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T08:36:22.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="T1LcNxb8HA2fMEe58Z1N" version="14.6.13" type="github">
   <diagram id="_y4zRp_UmyId21-Hul7x" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,13 +65,13 @@
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-19" value="服务器运营平台&lt;br&gt;（服务器申请，安装系统，和必要的系统服务）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="160" y="637" width="540" height="60" as="geometry" />
+          <mxGeometry x="160" y="617" width="540" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-20" value="Ambari&lt;br&gt;(hadoop相关服务 安装，部署，配置和管理工具)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="160" y="577" width="410" height="60" as="geometry" />
+          <mxGeometry x="160" y="564" width="410" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-54" value="grafana+prometheus&lt;br&gt;(监控，告警)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="570" y="577" width="130" height="60" as="geometry" />
+          <mxGeometry x="570" y="564" width="130" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7UA-1CkDOlzAfWWB-_jW-55" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="500" y="426" width="50" height="48" as="geometry" />
