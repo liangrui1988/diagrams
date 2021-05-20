@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T20:15:46.885Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7GAzoe8mbi_5goitoFsI" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T20:16:22.908Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Tn77wQ4YCDIaNh-L8JyN" version="14.6.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="1020" y="430" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-15" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=c_role;fontFamily=Helvetica;verticalAlign=bottom;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="288" width="50" height="48" as="geometry" />
+          <mxGeometry x="465" y="280" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-29" value="用户发送&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\\5fae软雅黑&amp;#34; , &amp;#34;\\5b8b体&amp;#34; , &amp;#34;malgun gothic&amp;#34; , &amp;#34;meiryo&amp;#34; , sans-serif ; font-size: 14px ; text-align: justify ; background-color: rgb(247 , 248 , 250)&quot;&gt;principal&lt;/span&gt;&amp;nbsp;idenfify&amp;nbsp; and credenfials 到KDC(TGT 请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="215" height="20" as="geometry" />
@@ -39,7 +39,7 @@
         <mxCell id="J-IrNvOtPyINDqQAKdtv-40" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\\5fae软雅黑&amp;#34; , &amp;#34;\\5b8b体&amp;#34; , &amp;#34;malgun gothic&amp;#34; , &amp;#34;meiryo&amp;#34; , sans-serif ; font-size: 14px ; text-align: justify ; background-color: rgb(247 , 248 , 250)&quot;&gt;TGT被解密，并被缓存&lt;/span&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3334B9;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cache_node;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="170.005" y="354" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J-IrNvOtPyINDqQAKdtv-41" value="&lt;span&gt;KDC 生成TGT 并 包装在principal +user key&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="J-IrNvOtPyINDqQAKdtv-41" value="&lt;span&gt;KDC 生成TGT 并 包装在&lt;/span&gt;principal&lt;span&gt;&amp;nbsp;+user key&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="370" y="334" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;fontFamily=Helvetica;" vertex="1" parent="1">
