@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T21:02:30.302Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BIe1d2harMXFPtugdiaK" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T21:04:53.180Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZWRCYH5tbS1is-ShQ8DF" version="14.6.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,13 +92,13 @@
           <mxGeometry x="100" y="80" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-89" value="realms&amp;nbsp;YYDEVOPS.COM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="790" y="70" width="220" height="30" as="geometry" />
+          <mxGeometry x="790" y="635" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-90" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 16px ; background-color: rgb(230 , 246 , 247)&quot;&gt;renew_lifetime&lt;/span&gt;&lt;font style=&quot;background-color: rgb(230 , 246 , 247) ; color: rgb(51 , 51 , 51) ; font-size: 16px ; box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;是该特定票证有效的时间。&lt;/font&gt;&lt;font style=&quot;background-color: rgb(230 , 246 , 247) ; color: rgb(51 , 51 , 51) ; font-size: 16px ; box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;凭单无效后，可以使用选项（kinit -R）对其进行续订。&lt;/font&gt;&lt;font style=&quot;background-color: rgb(230 , 246 , 247) ; color: rgb(51 , 51 , 51) ; font-size: 16px ; box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;用户可以以此方式继续更新她的票证，&lt;br&gt;直到“ renew_lifetime”时间（通常为7天）。&lt;/font&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 16px ; background-color: rgb(230 , 246 , 247)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; word-break: break-word ; line-height: 1.5 ; color: rgb(51 , 51 , 51) ; font-size: 16px ; background-color: rgb(230 , 246 , 247)&quot;&gt;&lt;font style=&quot;box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;&lt;font style=&quot;box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;“ renew_lifetime”是从首次获取票证的时间开始计算的。&lt;/font&gt;&lt;/font&gt;“ renew_lifetime”结束后，不能再使用票，并且需要重新购买票。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; word-break: break-word ; line-height: 1.5 ; color: rgb(51 , 51 , 51) ; font-size: 16px ; background-color: rgb(230 , 246 , 247)&quot;&gt;&lt;font style=&quot;box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;&lt;font style=&quot;box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;例如，如果您在1月1日00:00:00购票，则该票将在1月1日23:59:59过期。&lt;/font&gt;&lt;font style=&quot;box-sizing: border-box ; word-break: break-word ; vertical-align: inherit&quot;&gt;您可以一直将此票续签至1月7日23:59:59&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="105.00000000000006" y="675" width="970" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-92" value="renew_lifetime = 3600d&lt;br&gt;ticket_lifetime = 1800d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="105" y="625" width="200" height="50" as="geometry" />
+          <mxGeometry x="100" y="625" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
