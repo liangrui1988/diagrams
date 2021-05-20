@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-20T20:14:59.249Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="FkC1sIZ0Jdfi5F7wcJtx" version="14.6.13" type="github">
+<mxfile modified="2021-05-20T20:15:46.885Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7GAzoe8mbi_5goitoFsI" version="14.6.13" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="J-IrNvOtPyINDqQAKdtv-15" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=c_role;fontFamily=Helvetica;verticalAlign=bottom;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="288" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="J-IrNvOtPyINDqQAKdtv-29" value="用户发送 principal idenfify&amp;nbsp; and credenfials 到KDC(TGT 请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="J-IrNvOtPyINDqQAKdtv-29" value="用户发送&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;\\5fae软雅黑&amp;#34; , &amp;#34;\\5b8b体&amp;#34; , &amp;#34;malgun gothic&amp;#34; , &amp;#34;meiryo&amp;#34; , sans-serif ; font-size: 14px ; text-align: justify ; background-color: rgb(247 , 248 , 250)&quot;&gt;principal&lt;/span&gt;&amp;nbsp;idenfify&amp;nbsp; and credenfials 到KDC(TGT 请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="215" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J-IrNvOtPyINDqQAKdtv-30" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;" vertex="1" parent="1">
