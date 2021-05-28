@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T14:25:49.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="th5cac2kTKelXnjdU4iz" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T14:26:24.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EK9Id6xptRx6ZAZSgOjj" version="14.6.13" type="github">
   <diagram id="rXgp7cBZWFdDlfccxSCt" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-24" value="DataNode1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350.58" width="60" height="61.17" as="geometry" />
+          <mxGeometry x="224" y="350.58" width="60" height="61.17" as="geometry" />
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.951;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ohS7AvulIUzn7pixfp3v-9" target="ohS7AvulIUzn7pixfp3v-1">
           <mxGeometry relative="1" as="geometry">
@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-30" value="DataNode3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="466" y="350.58" width="60" height="61.17" as="geometry" />
+          <mxGeometry x="400" y="350.58" width="60" height="61.17" as="geometry" />
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-31" value="DataNode2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="354" y="350.58" width="60" height="61.17" as="geometry" />
+          <mxGeometry x="316" y="350.58" width="60" height="61.17" as="geometry" />
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-33" value="Block Storage" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=10;verticalAlign=bottom;horizontal=0;spacingTop=10;spacingRight=20;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-36" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: sans-serif ; font-size: 14px ; font-weight: 700 ; background-color: rgb(249 , 249 , 249)&quot;&gt;Capacity&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: sans-serif ; font-size: 14px ; background-color: rgb(249 , 249 , 249)&quot;&gt;57.99 PB&lt;br&gt;Use 42.66 PB&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="630" y="335" width="140" height="30" as="geometry" />
+          <mxGeometry x="467" y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ohS7AvulIUzn7pixfp3v-37" value="2亿文件&amp;nbsp; 1.9亿块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="110" height="20" as="geometry" />
