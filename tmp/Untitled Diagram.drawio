@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T08:10:02.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.8.6" etag="hHwsG2fbllHuMiUpZ4Rj" type="github"><diagram id="9lLiL-wMJO70nwDwRCzP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-14T08:15:16.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_3NMbUQTaQJQ7PfMS4gB" version="14.8.6" type="github">
+  <diagram id="9lLiL-wMJO70nwDwRCzP" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mIozh9vDuHq7eFjtp_iB-1" value="佛山机房（YY内网）&lt;br&gt;Hadoop集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mIozh9vDuHq7eFjtp_iB-2" value="无锡机房(YY内网+百度外网)&lt;br&gt;方案1：Hadoop dn client&lt;br&gt;keytab控制权限&lt;br&gt;hdfs&amp;nbsp; get put ...&lt;br&gt;&lt;br&gt;方案2：HttpFs&lt;br&gt;&amp;nbsp;keytab控制权限&lt;br&gt;http api获取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="196" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
