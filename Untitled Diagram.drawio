@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T11:35:50.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GIq7AFvg9ANcK2kN0fDh" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T11:36:02.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="F-sLuvEw0GEu9pLZUW6l" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="_8PKinQ_9wPxz596dJLB-58" value="没有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_8PKinQ_9wPxz596dJLB-63" value="这个方法会重新全部查询一遍，根据PolicyID,&lt;br&gt;主要会卡在这里" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1030" width="170" height="70" as="geometry" />
+        <mxCell id="_8PKinQ_9wPxz596dJLB-64" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;这个方法会重新全部查询一遍，根据PolicyID,&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; text-align: center&quot;&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;主要会卡在这里&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
