@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T10:22:57.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="G78NRDixyt3lnshq7MU8" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T10:25:07.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="o5SLGE9M9xXU4VHEbPtv" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,19 @@
           <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-36" value="查询db" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_8PKinQ_9wPxz596dJLB-38" value="lock" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="_8PKinQ_9wPxz596dJLB-38" value="&amp;nbsp;lock &amp;amp; 10&amp;nbsp;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_8PKinQ_9wPxz596dJLB-39" value="10后没有释放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8PKinQ_9wPxz596dJLB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.369;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_8PKinQ_9wPxz596dJLB-40" target="_8PKinQ_9wPxz596dJLB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_8PKinQ_9wPxz596dJLB-40" value="10后释放" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
