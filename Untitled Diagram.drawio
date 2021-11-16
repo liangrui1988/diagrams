@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T11:45:37.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EnVK1vSHC_-RmtiyTJoP" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:18:21.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ixup59U98ytbMng-R2-m" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-78" value="10秒可以配置。是否可以调为1秒。原则上不会影响。目地是减少正常读数据的锁时间。版本发生变化时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_8PKinQ_9wPxz596dJLB-80" value="cache是用的本地map&lt;br&gt;缓存整个对象，&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;ServicePoliciesWrapper&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=2;fontColor=#000000;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="315" y="40" width="195" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
