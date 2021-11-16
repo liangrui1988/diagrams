@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T13:20:21.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="g-Jd-J6NY0hz8D67L8I3" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T13:20:35.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="O2abvp_FQ2yL98KCOBf6" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,8 +133,8 @@
         <mxCell id="_8PKinQ_9wPxz596dJLB-64" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;这个方法会重新全部查询一遍，根据PolicyID,&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; text-align: center&quot;&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;主要会卡在这里。&lt;br&gt;只要有新查询过来，就会重新查询，这个不合理。目地是为了避免有修改过后的数据返回。但数据量多的话，就会很慢。版本得不到及时更新，其它就会一直锁10秒。是否可以直接去掉这个判断，目前我们的需求应该没有要求这么及时的。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;align=left;verticalAlign=middle;fontColor=#FF3300;" vertex="1" parent="1">
           <mxGeometry x="300" y="1050" width="330" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_8PKinQ_9wPxz596dJLB-78" value="10秒可以配置。是否可以调为1秒。原则上不会影响。目地是减少正常读数据的锁时间。版本发生变化时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="490" width="140" height="30" as="geometry" />
+        <mxCell id="_8PKinQ_9wPxz596dJLB-78" value="10秒可以配置。是否可以调为1秒。原则上不会影响。目地是减少正常读数据的锁时间。版本发生变化时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#FF0F0F;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-80" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;cache是用的本地map&lt;br&gt;缓存整个对象，&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;ServicePoliciesWrapper&lt;br&gt;在这个对象里做了各种锁和方法&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=2;fontColor=#000000;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="105" width="195" height="110" as="geometry" />
