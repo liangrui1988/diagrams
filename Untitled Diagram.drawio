@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T09:38:36.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_lNZWq8CiMkJ551VYQe_" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T09:40:45.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="YT3LLiidZ_Uo0uXVvL8F" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-30" value="db&lt;br&gt;verison" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="480" width="60" height="80" as="geometry" />
+          <mxGeometry x="430" y="540" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-32" value="cache version eq db verson" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-34" value="不相等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8PKinQ_9wPxz596dJLB-36" value="查询db，加入cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
