@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T02:23:44.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="02-BX5yiI9LAp1wSVSvd" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T02:27:41.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="MGvuXzH0L7tX0tfSntND" version="15.5.0" type="github">
   <diagram id="iZJsxV2bJSg2qXfRbZwv" name="Page-1">
     <mxGraphModel dx="1874" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_8PKinQ_9wPxz596dJLB-64" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;这个方法会重新全部查询一遍，根据PolicyID,&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; text-align: center&quot;&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;主要会卡在这里。&lt;br&gt;只要有新查询过来，就会重新查询，这个不合理。目地是为了避免有二次或多次修改过后的数据返回。但数据量多的话，就会很慢。版本得不到及时更新，其它就会一直锁10秒。是否可以直接去掉这个判断，目前我们的需求应该没有要求这么及时的。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;align=left;verticalAlign=middle;fontColor=#FF3300;" vertex="1" parent="1">
+        <mxCell id="_8PKinQ_9wPxz596dJLB-64" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;这个方法会重新全部查询一遍，根据PolicyID,&lt;/span&gt;&lt;br style=&quot;font-size: 12px ; text-align: center&quot;&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;主要会卡在这里。&lt;br&gt;只要有新更新过来，就会重新查询，这个不合理。目地是为了避免有二次或多次修改过后的数据返回。但数据量多的话，就会很慢。版本得不到及时更新，其它就会一直锁10秒。是否可以直接去掉这个判断，目前我们的需求应该没有要求这么及时的。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;align=left;verticalAlign=middle;fontColor=#FF3300;" vertex="1" parent="1">
           <mxGeometry x="260" y="1020" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_8PKinQ_9wPxz596dJLB-78" value="10秒可以配置。目地是减，版本发生变化时，给10秒去刷缓存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=2;fontColor=#FF0F0F;" vertex="1" parent="1">
