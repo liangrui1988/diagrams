@@ -1,9 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T07:34:42.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="peEd0I3AsZ14np-0It6T" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T07:35:48.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3ivI53XHHrHJRnFZKckH" version="17.3.0" type="github">
   <diagram id="RoU__FsvneReP1gIZXwm" name="Page-1">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v9gRxfP-HKsxjnFTEKJX-84" style="edgeStyle=orthogonalEdgeStyle;shape=arrow;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;endArrow=ERmany;endFill=0;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="v9gRxfP-HKsxjnFTEKJX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v9gRxfP-HKsxjnFTEKJX-85" value="discp冷数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="v9gRxfP-HKsxjnFTEKJX-84">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v9gRxfP-HKsxjnFTEKJX-4" value="datanode" style="html=1;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=#d5e8d4;dashed=1;strokeWidth=2;strokeColor=#82b366;spacingLeft=4;spacingTop=-3;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="330" height="210" as="geometry" />
         </mxCell>
@@ -78,10 +88,12 @@
         <mxCell id="v9gRxfP-HKsxjnFTEKJX-57" value="ns-cluster06&lt;br&gt;启用EC存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="147" y="508" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v9gRxfP-HKsxjnFTEKJX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="v9gRxfP-HKsxjnFTEKJX-58" target="v9gRxfP-HKsxjnFTEKJX-4">
+        <mxCell id="v9gRxfP-HKsxjnFTEKJX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;endArrow=ERmany;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="263" y="431" as="sourcePoint" />
+            <mxPoint x="488.5" y="322" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="493" y="439" />
+              <mxPoint x="489" y="431" />
             </Array>
           </mxGeometry>
         </mxCell>
