@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T09:37:06.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="T5L7IayCgoz4jsc9CEHO" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:38:06.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yPl9IhhuyjVkG4u9xUo3" version="20.5.3" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="zYSROLiiu2QMpu62QoC--72" value="需要EC的表记录信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-120" y="50" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--73" value="EC分区明细信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="zYSROLiiu2QMpu62QoC--73" value="EC分区明细处理信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--77" value="hive锁写分区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
