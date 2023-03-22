@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T10:01:51.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V_43AaHsyRbkVv109dZw" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T10:05:36.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SPnoaZRvazWDAFGEFLYy" version="20.5.3" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--105" value="验证是否全部修改" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
           <mxGeometry x="244" y="647" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wKqDXIvhPrylj7K6A5-10" value="&lt;h1&gt;自动EC处理流程&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-217" y="520" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
