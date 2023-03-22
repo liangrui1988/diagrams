@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T08:45:44.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.5.3" etag="bbfvYiaBCkmacqxsoE0V" type="github"><diagram id="D24IE1dByPuJugEgtjd4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-22T08:56:58.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FLOdykKR6vnUsZqJ2qVG" version="20.5.3" type="github">
+  <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zYSROLiiu2QMpu62QoC--2" value="定时调度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--3" value="批量执行分区distcp数据到EC目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--4" value="mysql 需要EC的信息" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zYSROLiiu2QMpu62QoC--4">
+          <mxGeometry y="30" width="140" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--5">
+          <mxGeometry width="47" height="17" as="geometry">
+            <mxRectangle width="47" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--5">
+          <mxGeometry x="47" width="46" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--5">
+          <mxGeometry x="93" width="47" height="17" as="geometry">
+            <mxRectangle width="47" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zYSROLiiu2QMpu62QoC--4">
+          <mxGeometry y="47" width="140" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--9">
+          <mxGeometry width="47" height="16" as="geometry">
+            <mxRectangle width="47" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--9">
+          <mxGeometry x="47" width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--9">
+          <mxGeometry x="93" width="47" height="16" as="geometry">
+            <mxRectangle width="47" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zYSROLiiu2QMpu62QoC--4">
+          <mxGeometry y="63" width="140" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--13">
+          <mxGeometry width="47" height="17" as="geometry">
+            <mxRectangle width="47" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--13">
+          <mxGeometry x="47" width="46" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="zYSROLiiu2QMpu62QoC--13">
+          <mxGeometry x="93" width="47" height="17" as="geometry">
+            <mxRectangle width="47" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--17" value="检查是否符合EC的条件" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="235" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--18" value="end" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--19" value="对比单副本大小是否一致" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="235" y="423" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--20" value="hive&amp;nbsp;分区path修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="555" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--21" value="告警异常&lt;br&gt;人工处理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--22" value="对比单副本大小是否一致" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--23" value="告警异常&lt;br&gt;人工处理" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
