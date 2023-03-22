@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T10:01:31.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B7QMUa5DOzgvx3hU8n6R" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T10:01:51.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V_43AaHsyRbkVv109dZw" version="20.5.3" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="z9wKqDXIvhPrylj7K6A5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--19" target="zYSROLiiu2QMpu62QoC--20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z9wKqDXIvhPrylj7K6A5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--19" target="zYSROLiiu2QMpu62QoC--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--19" value="对比大小是否一致" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
           <mxGeometry x="244" y="467" width="120" height="70" as="geometry" />
         </mxCell>
@@ -51,6 +54,9 @@
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--23" value="告警异常&lt;br&gt;人工处理&lt;br&gt;&amp;amp;释放写分区锁" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="482" y="652" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wKqDXIvhPrylj7K6A5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--25" target="zYSROLiiu2QMpu62QoC--26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--25" value="移动原始数据到tmp目录&lt;br&gt;&amp;amp;记录到表状态中&lt;br&gt;&amp;amp;释放写分区锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
           <mxGeometry x="224" y="748" width="160" height="60" as="geometry" />
@@ -293,6 +299,9 @@
           <mxGeometry x="224" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z9wKqDXIvhPrylj7K6A5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--105" target="zYSROLiiu2QMpu62QoC--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9wKqDXIvhPrylj7K6A5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--105" target="zYSROLiiu2QMpu62QoC--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--105" value="验证是否全部修改" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
