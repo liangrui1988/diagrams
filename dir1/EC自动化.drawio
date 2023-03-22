@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T10:05:36.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SPnoaZRvazWDAFGEFLYy" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T10:07:11.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aRNwCBTaX8rTFRFrEDzN" version="20.5.3" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="zYSROLiiu2QMpu62QoC--98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Helvetica;fontSize=20;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" source="zYSROLiiu2QMpu62QoC--3" target="zYSROLiiu2QMpu62QoC--77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--3" value="批量执行分区distcp数据到EC目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
+        <mxCell id="zYSROLiiu2QMpu62QoC--3" value="执行分区distcp数据到EC目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
           <mxGeometry x="224" y="291" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontFamily=Helvetica;fontSize=20;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" source="zYSROLiiu2QMpu62QoC--17" target="zYSROLiiu2QMpu62QoC--3" edge="1">
@@ -46,7 +46,7 @@
         <mxCell id="z9wKqDXIvhPrylj7K6A5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zYSROLiiu2QMpu62QoC--20" target="zYSROLiiu2QMpu62QoC--105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--20" value="hive dt分区下的全部子分区&lt;br&gt;路径为EC目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
+        <mxCell id="zYSROLiiu2QMpu62QoC--20" value="hive dt分区下的全部子分区&lt;br&gt;路径改为EC目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" parent="1" vertex="1">
           <mxGeometry x="224" y="563" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--21" value="告警异常&lt;br&gt;人工处理&lt;br&gt;&amp;amp;释放写分区锁" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
