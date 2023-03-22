@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T09:57:49.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pc9xPeV9BgDQCntw4xKd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:59:01.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iQqrz2jmPYflfQLkzhQb" version="20.5.3" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -34,23 +34,20 @@
         <mxCell id="zYSROLiiu2QMpu62QoC--18" value="end" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="482" y="202" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--19" value="对比单副本大小是否一致" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
-          <mxGeometry x="225" y="470" width="150" height="90" as="geometry" />
+        <mxCell id="zYSROLiiu2QMpu62QoC--19" value="对比大小是否一致" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="475" width="116.67" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--20" value="hive dt分区下的全部子分区&lt;br&gt;路径为EC目录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="575" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--21" value="告警异常&lt;br&gt;人工处理&lt;br&gt;&amp;amp;释放写分区锁" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="482" y="485" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--22" value="验证是否全部修改" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
-          <mxGeometry x="225" y="645" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--23" value="告警异常&lt;br&gt;人工处理&lt;br&gt;&amp;amp;释放写分区锁" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="482" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--25" value="移动原始数据到tmp目录&lt;br&gt;&amp;amp;记录到表状态中&lt;br&gt;&amp;amp;释放写分区锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="770" width="160" height="60" as="geometry" />
+          <mxGeometry x="220" y="777" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--26" value="定时调度数据删除（7天）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="482" y="760" width="120" height="80" as="geometry" />
@@ -285,6 +282,9 @@
         </mxCell>
         <mxCell id="zYSROLiiu2QMpu62QoC--77" value="hive锁写分区" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="397" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zYSROLiiu2QMpu62QoC--105" value="验证是否全部修改" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="670" width="116.67" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
