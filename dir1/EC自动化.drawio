@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T02:31:26.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SHqMDfy_YvXFdODF5_Ry" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T02:40:46.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-2irx5XJtgPi3lsIgSrY" version="21.3.2" type="github">
   <diagram id="D24IE1dByPuJugEgtjd4" name="第 1 页">
     <mxGraphModel dx="2713" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
             <mxRectangle width="70" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--86" value="t_n" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontColor=#1D3557;" parent="zYSROLiiu2QMpu62QoC--39" vertex="1">
+        <mxCell id="zYSROLiiu2QMpu62QoC--86" value="new_saving" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontColor=#1D3557;" parent="zYSROLiiu2QMpu62QoC--39" vertex="1">
           <mxGeometry x="260" width="80" height="31" as="geometry">
             <mxRectangle width="80" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -207,7 +207,7 @@
         <mxCell id="z9wKqDXIvhPrylj7K6A5-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-218" y="170" width="190" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="zYSROLiiu2QMpu62QoC--55" value="&lt;h1&gt;状态枚举&lt;/h1&gt;&lt;p&gt;acce=排队中&lt;/p&gt;&lt;p&gt;runn=运行中&lt;/p&gt;&lt;p&gt;fini=完成&lt;/p&gt;&lt;p&gt;fail=异常&lt;/p&gt;&lt;p&gt;kill=不符合条件或手动停止&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;类型：&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;batch=根据分区前辍批量处理&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;t_n=t-n只处理N天前的一天数据&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;" parent="z9wKqDXIvhPrylj7K6A5-11" vertex="1">
+        <mxCell id="zYSROLiiu2QMpu62QoC--55" value="&lt;h1&gt;状态枚举&lt;/h1&gt;&lt;p&gt;acce=排队中&lt;/p&gt;&lt;p&gt;runn=运行中&lt;/p&gt;&lt;p&gt;fini=完成&lt;/p&gt;&lt;p&gt;fail=异常&lt;/p&gt;&lt;p&gt;fail_tr=并发写冲突-回退&lt;br&gt;&lt;/p&gt;&lt;p&gt;kill=不符合条件或手动停止&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;类型：&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;batch=根据分区前辍批量处理&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(29, 53, 87); text-align: center;&quot;&gt;t_n=t-n只处理N天前的一天数据&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;horizontal=1;" parent="z9wKqDXIvhPrylj7K6A5-11" vertex="1">
           <mxGeometry y="40" width="190" height="310" as="geometry" />
         </mxCell>
         <mxCell id="z9wKqDXIvhPrylj7K6A5-10" value="&lt;h1&gt;自动EC处理流程&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;direction=north;verticalAlign=top;horizontal=1;align=right;fontStyle=1;flipV=1;flipH=1;" parent="z9wKqDXIvhPrylj7K6A5-11" vertex="1">
