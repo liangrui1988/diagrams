@@ -49,8 +49,11 @@
         <mxCell id="97-3pu6afCx0JbpD4qz9-33" value="故障" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
           <mxGeometry x="330" y="280" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="97-3pu6afCx0JbpD4qz9-20" source="97-3pu6afCx0JbpD4qz9-37" target="97-3pu6afCx0JbpD4qz9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-37" value="备一台新机器，提前配置好备用环境" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
-          <mxGeometry x="310" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="97-3pu6afCx0JbpD4qz9-44" source="97-3pu6afCx0JbpD4qz9-23" parent="97-3pu6afCx0JbpD4qz9-20">
           <mxGeometry relative="1" as="geometry">
@@ -59,6 +62,25 @@
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-44" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;20240911（周三）&lt;/span&gt;&lt;br style=&quot;font-size: 4px;&quot;&gt;&lt;div style=&quot;font-size: 4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;常驻进程&lt;/span&gt;升级或重启完&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
           <mxGeometry x="140" y="460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="97-3pu6afCx0JbpD4qz9-52" source="97-3pu6afCx0JbpD4qz9-44" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-52" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;把这台新ip切为主节点&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 4px;&quot;&gt;进行验证&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry x="140" y="540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="97-3pu6afCx0JbpD4qz9-54" source="97-3pu6afCx0JbpD4qz9-52" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-54" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;没有问题&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 4px;&quot;&gt;结束&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry x="140" y="620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.41;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="97-3pu6afCx0JbpD4qz9-20" source="97-3pu6afCx0JbpD4qz9-33" target="97-3pu6afCx0JbpD4qz9-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
