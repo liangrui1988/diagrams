@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="97-3pu6afCx0JbpD4qz9-20" value="hdfs namenode搬迁流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="160" y="70" width="590" height="880" as="geometry" />
+          <mxGeometry x="220" y="90" width="590" height="880" as="geometry" />
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;strokeColor=default;" edge="1" parent="97-3pu6afCx0JbpD4qz9-20" source="97-3pu6afCx0JbpD4qz9-22" target="97-3pu6afCx0JbpD4qz9-30">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-37" value="备一台新机器，提前配置好备用环境" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
-          <mxGeometry x="320" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="97-3pu6afCx0JbpD4qz9-44" source="97-3pu6afCx0JbpD4qz9-23" parent="97-3pu6afCx0JbpD4qz9-20">
           <mxGeometry relative="1" as="geometry">
@@ -81,6 +81,17 @@
         </mxCell>
         <mxCell id="97-3pu6afCx0JbpD4qz9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.41;entryY=-0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="97-3pu6afCx0JbpD4qz9-20" source="97-3pu6afCx0JbpD4qz9-33" target="97-3pu6afCx0JbpD4qz9-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="97-3pu6afCx0JbpD4qz9-62" source="97-3pu6afCx0JbpD4qz9-44" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97-3pu6afCx0JbpD4qz9-62" value="&lt;span style=&quot;font-size: 4px;&quot;&gt;服务连不上新ip&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 4px;&quot;&gt;需重启服务&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="97-3pu6afCx0JbpD4qz9-20">
+          <mxGeometry x="330" y="540" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
