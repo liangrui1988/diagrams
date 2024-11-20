@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="f8pN9QkAfNETBZEUV9d5">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-15">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-8" value="blk_1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-15">
+          <mxGeometry x="13.333333333333332" y="17.777777777777775" width="53.33333333333333" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-16" value="" style="group;fillColor=#F85402;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-16">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-18" value="blk_1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-16">
+          <mxGeometry x="13.333333333333332" y="17.777777777777775" width="53.33333333333333" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-20">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-22" value="blk_1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-20">
+          <mxGeometry x="13.333333333333332" y="17.777777777777775" width="53.33333333333333" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-23">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-25" value="blk_1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-23">
+          <mxGeometry x="13.333333333333332" y="17.777777777777775" width="53.33333333333333" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-26">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-28" value="blk_1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="BUB8WRs25LQhKAvRFkOK-26">
+          <mxGeometry x="13.333333333333332" y="17.777777777777775" width="53.33333333333333" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="BUB8WRs25LQhKAvRFkOK-29" value="namenode" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
